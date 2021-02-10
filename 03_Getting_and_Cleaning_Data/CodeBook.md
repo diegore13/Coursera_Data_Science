@@ -2,7 +2,7 @@
   
 ### <h2> Introduction
 This code book is used for describes the variables, the data, and any transformations or work that you performed to clean up the data.
-Utilize the tidyverse package
+Utilize the tidyverse package for create a tibble data set and apply to learned in the course.
   
 ### <h2> Process
 ### 1. Merges the training and the test sets to create one data set.
@@ -18,7 +18,7 @@ Utilize the tidyverse package
 * keep the subject Id and actvitiy columns
 * identify column names with 'mean' or 'std'
 ### 3. Use descriptive activity names to name the activities in the data set
-* change the activity column from numberse 1-6 to descriptive activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+* change the activity column from numbers 1-6 to descriptive activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 ### 4. Label the data set with descriptive variable names
 * remove the () in the columns
 ### 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject
@@ -62,5 +62,5 @@ The set of variables that were estimated from these signals are as follows:
 * std: Standard deviation
 
 ### <h2> Other Variables
-* subjectId: Identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
+* subjectId: Identifies the subject who performed the activity for each window sample.
 * activity: Six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) that the subjects performed wearing a smartphone (Samsung Galaxy S II) on the waist.
