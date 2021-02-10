@@ -31,7 +31,8 @@ You should create one R script called run_analysis.R that does the following.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ### <h2> Products
-1. README.md (03_Getting_and_Cleaning_Data/CodeBook.md)
+1. README.md 
+[README.md](03_Getting_and_Cleaning_Data/CodeBook.md)
 2. CodeBook.md
 3. run_analysis.R
 4. tidy_data.txt
