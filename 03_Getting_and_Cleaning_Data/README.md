@@ -32,9 +32,9 @@ You should create one R script called run_analysis.R that does the following.
 
 ### <h2> Results
 1. [README.md](https://github.com/diegore13/Coursera_Data_Science/blob/master/03_Getting_and_Cleaning_Data/README.md)
-2. [CodeBook.md](03_Getting_and_Cleaning_Data/CodeBook.md)
-3. [run_analysis.R](03_Getting_and_Cleaning_Data/run_analysis.R)
-4. [tidy_data_mean.txt](03_Getting_and_Cleaning_Data/tidy_data_mean.txt)
+2. [CodeBook.md](https://github.com/diegore13/Coursera_Data_Science/blob/master/03_Getting_and_Cleaning_Data/CodeBook.md)
+3. [run_analysis.R](https://github.com/diegore13/Coursera_Data_Science/blob/master/03_Getting_and_Cleaning_Data/run_analysis.R)
+4. [tidy_data_mean.txt](https://github.com/diegore13/Coursera_Data_Science/blob/master/03_Getting_and_Cleaning_Data/tidy_data_mean.txt)
  
  
  
